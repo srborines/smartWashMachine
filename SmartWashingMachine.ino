@@ -1,4 +1,4 @@
-c#include <ESP8266WiFi.h>
+#include <ESP8266WiFi.h>
 
 WiFiClient client;
 // Server where is the php script
